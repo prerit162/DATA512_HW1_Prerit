@@ -34,7 +34,7 @@ The following steps need to followed to run this code seamlessly :
 Output and Results :
 
 First Analysis
-![image](./Output/Max_Min_plot.png)
+![image](Output/Max_Min_plot.png)
 
 Second Analysis
 ![image](./Output/Top10_plot.png)
