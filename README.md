@@ -33,5 +33,5 @@ View Visualizations<br>
 
 Output and Results :
 
-![image]('./Output and Results/Fewest10_plot.png')
+![image](https://drive.google.com/file/d/1coFaWvP5JOcGp9HDkbpr7C2j2ljL0eA5/view?usp=sharing)
 ![image](./Output and Results/Fewest10_plot.png)
