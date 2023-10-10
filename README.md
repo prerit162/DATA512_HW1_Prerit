@@ -33,4 +33,4 @@ The following steps need to followed to run this code seamlessly :
 
 Output and Results :
 
-![image](./Output and Results/Top10_plot.png)
+![image](Output and Results/Top10_plot.png)
