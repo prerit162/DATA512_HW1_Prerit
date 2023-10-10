@@ -32,7 +32,6 @@ The following steps need to followed to run this code seamlessly :
 
 
 Output and Results :
-
 First Analysis
 ![image](Output/Max_Min_plot.png)
 
