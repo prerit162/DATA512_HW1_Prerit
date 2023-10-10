@@ -13,7 +13,7 @@ Before using this code, ensure you have the following prerequisites installed:
 │   ├── thank_the_academy.AUG.2023.csv.xlsx<br>
 ├── Code/<br>
 │   └── Analysis.ipynb<br>
-└── Output and Results/<br>
+└── Output/<br>
 &emsp; ├── academy_monthly_cumulative_201507-202309.json<br>
 &emsp; ├── academy_monthly_mobile_201507-202309.json<br>
 &emsp; └── academy_monthly_desktop_201507-202309.json<br>
@@ -33,4 +33,4 @@ The following steps need to followed to run this code seamlessly :
 
 Output and Results :
 
-![image](Output and Results/Top10_plot.png)
+![image](./Output and Results)
