@@ -20,4 +20,12 @@ Before using this code, ensure you have the following prerequisites installed:
     └── Fewest10_plot.png<br>
     └── Max_Min_plot.png<br>
     └── Top10_plot.png<br>
-# DATA512_HW1_Prerit
+
+# Reproducibility
+
+The following steps need to followed to run this code seamlessly :
+
+Clone this repository to your local machine.<br>
+Install all the required libraries (pandas, matplotlib, json, os).<br>
+Run Analysis.ipynb to generate all the required jsons and all three analysis visualizations<br>
+View Visualizations<br>
