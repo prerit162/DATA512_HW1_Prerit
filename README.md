@@ -1,5 +1,11 @@
 # DATA512_HW1
 
+This project aims to collect views data for Wikipedia using list of articles. The Wikimedia REST API is leveraged to fetch data about the articles which is then processed and the results are then stored in JSON files. The JSON file contains the articles sorted by name. The code contains the complete process of data acquisition, preprocessind and conducting the three analysis which involves calculation average views per article based on access, articles with the highest and lowest views and building analysis to view the insights.
+
+# Prerequisites
+Before using this code, ensure you have the following prerequisites installed:
+    Python 3.x
+
 # Folder Hierarchy
 
 ├── Data/<br>
