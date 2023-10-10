@@ -33,5 +33,4 @@ The following steps need to followed to run this code seamlessly :
 
 Output and Results :
 
-![image](https://drive.google.com/file/d/1coFaWvP5JOcGp9HDkbpr7C2j2ljL0eA5/view?usp=sharing)
-![image](./Output and Results/Fewest10_plot.png)
+![image](./Output and Results/Top10_plot.png)
