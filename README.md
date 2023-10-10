@@ -4,6 +4,7 @@ This project aims to collect views data for Wikipedia using list of articles. Th
 
 # Prerequisites
 Before using this code, ensure you have the following prerequisites installed:
+
     Python 3.x
 
 # Folder Hierarchy
