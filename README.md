@@ -21,6 +21,11 @@ Before using this code, ensure you have the following prerequisites installed:
 &emsp; └── Max_Min_plot.png<br>
 &emsp; └── Top10_plot.png<br>
 
+# Data sources and API documentation
+
+[Article List](https://docs.google.com/spreadsheets/d/1A1h_7KAo7KXaVxdScJmIVPTvjb3IuY9oZhNV4ZHxrxw/edit?usp=sharing)
+[API Documentation](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews)
+
 # Reproducibility
 
 The following steps need to followed to run this code seamlessly :
