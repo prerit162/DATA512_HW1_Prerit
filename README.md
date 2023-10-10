@@ -14,7 +14,7 @@ Before using this code, ensure you have the following prerequisites installed:
 ├── Code/<br>
 │   └── Analysis.ipynb<br>
 └── Output and Results/<br>
-    emsp ├── academy_monthly_cumulative_201507-202309.json<br>
+    &emsp; ├── academy_monthly_cumulative_201507-202309.json<br>
         ├── academy_monthly_mobile_201507-202309.json<br>
         └── academy_monthly_desktop_201507-202309.json<br>
         └── Fewest10_plot.png<br>
