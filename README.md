@@ -27,6 +27,11 @@ Before using this code, ensure you have the following prerequisites installed:
 
 [API Documentation](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews)
 
+# Code
+[Reference Code for API call](https://drive.google.com/file/d/1XjFhd3eXx704tcdfQ4Q1OQn0LWKCRNJm/view)
+
+[License](https://creativecommons.org/licenses/by/4.0/)
+
 # Reproducibility
 
 The following steps need to followed to run this code seamlessly :
